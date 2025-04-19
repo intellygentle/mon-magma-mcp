@@ -1,4 +1,3 @@
-
 ### Summary of Commands
 Here’s a recap of the prerequisite commands to set up your MCP project:
 
@@ -14,10 +13,10 @@ npm isntall
 npm install @modelcontextprotocol/sdk zod viem
 npm install dotenv
 ```
-create an env file in your dist folder
-``
-code .env # fill it with PRIVATE_KEY=0xYourPrivateKey
-```
+- create an env file in your dist folder
+  ``bash
+  code .env # fill it with PRIVATE_KEY=0xYourPrivateKey
+  ```
 
 - edit the monad-magma-Tools.ts in the src folder with the path to your env. this is so that claude can load it
 
