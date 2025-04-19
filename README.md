@@ -48,6 +48,8 @@ run the script
 ```bash
 node dist/monad-magma-Tools.js
 ```
+# Output will look like this
+<img width="581" alt="image" src="https://github.com/user-attachments/assets/9a6910d7-e8f6-4f1c-b2af-222450036859" />
 
 # configure claude json file
 - copy the output of which node
