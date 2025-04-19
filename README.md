@@ -14,7 +14,7 @@ npm install @modelcontextprotocol/sdk zod viem
 npm install dotenv
 ```
 - create an env file in your dist folder
-  ``bash
+  ```bash
   code .env # fill it with PRIVATE_KEY=0xYourPrivateKey
   ```
 
