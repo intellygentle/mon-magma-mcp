@@ -26,8 +26,7 @@ which node  # it should look like this /home/yourUsername/.nvm/versions/node/v23
 - copy the path to your js file
 - combine the two to make your claude json setup
 - ```bash
-  {
-"mcpServers": {
+  { "mcpServers": {
     "monad-mcp": {
       "command": "wsl",
       "args": [
