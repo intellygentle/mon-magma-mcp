@@ -55,3 +55,7 @@ be sure to edit "username" use your directory
 ```bash
 npx @modelcontextprotocol/inspector /home/username/.nvm/versions/node/v23.11.0/bin/node /home/username/monadMpcTask/dist/monad-magma-Tools.js
 ```
+
+# MCP Inspector will look like this
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/7ee3f894-1a30-45c7-a5c3-17bfc9a49d57" />
+
