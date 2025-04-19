@@ -8,6 +8,8 @@ import { privateKeyToAccount } from "viem/accounts";
 import dotenv from "dotenv";
 
 // Explicitly specify the absolute path to the .env file
+// if this gives you problem, hardcode your privatekey and then uncomment the dotenv.config(); below
+// then comment out line 13-15 here
 const envPath = "/home/yourUsername/monadMpcTask/dist/.env";
 console.error(`[DEBUG] Loading .env file from: ${envPath}`);
 dotenv.config({ path: envPath });
