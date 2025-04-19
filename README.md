@@ -2,8 +2,8 @@
 Here’s a recap of the prerequisite commands to set up your MCP project:
 
 ```bash
-git clone
-cd
+git clone https://github.com/intellygentle/mon-magma-mcp.git
+cd mon-magma-mcp
 ```
 
 
