@@ -1,0 +1,24 @@
+{
+  "name": "monad-mcp-stdio-new",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "MCP stdio server for Monad Testnet",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsc --watch & node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.10.1",
+    "dotenv": "^16.5.0",
+    "viem": "^2.27.2",
+    "zod": "^3.24.3"
+  }
+}

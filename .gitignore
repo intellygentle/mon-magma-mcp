@@ -1,0 +1,21 @@
+node_modules
+# Node.js
+node_modules/
+.env
+dist/
+build/
+*.log
+.DS_Store
+
+# Docker
+*.pid
+*.sock
+*.db
+docker-compose.override.yml
+
+# VSCode
+.vscode/
+
+# OS junk
+Thumbs.db
+ehthumbs.db
