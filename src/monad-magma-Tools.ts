@@ -8,7 +8,7 @@ import { privateKeyToAccount } from "viem/accounts";
 import dotenv from "dotenv";
 
 // Explicitly specify the absolute path to the .env file
-const envPath = "/home/kida/monadMpcTask/dist/.env";
+const envPath = "/home/yourUsername/monadMpcTask/dist/.env";
 console.error(`[DEBUG] Loading .env file from: ${envPath}`);
 dotenv.config({ path: envPath });
 
