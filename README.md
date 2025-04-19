@@ -33,7 +33,8 @@ which node  # it should look like this /home/yourUsername/.nvm/versions/node/v23
          "/home/yourUsername/.nvm/versions/node/v23.11.0/bin/node",
         "/home/yourUsername/monadMpcTask/dist/monad-magma-Tools.js"
       ]
-    } ```
+    }
+ ```
   
 
 
