@@ -12,10 +12,24 @@ cd
 ```bash 
 npm isntall
 npm install @modelcontextprotocol/sdk zod viem
+npm install dotenv
 ```
+create an env file in your dist folder
+``
+code .env # fill it with PRIVATE_KEY=0xYourPrivateKey
+```
+
+- edit the monad-magma-Tools.ts in the src folder with the path to your env. this is so that claude can load it
+<img width="374" alt="env" src="https://github.com/user-attachments/assets/71bf86af-f7e0-449c-9620-b50e88ce3acc" />
+
+ 
 # Build and run
 ```bash
 npm run build
+```
+run the script
+```bash
+node dist/monad-magma-Tools.js
 ```
 
 # configure claude json file
