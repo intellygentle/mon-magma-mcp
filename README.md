@@ -23,6 +23,8 @@ cd dist
 ```
 
 - create an env file in your dist folder
+<img width="438" alt="image" src="https://github.com/user-attachments/assets/cbdcb156-e3c3-4bf2-bede-62ebfd2904e5" />
+
   ```bash
   code .env # fill it with PRIVATE_KEY=0xYourPrivateKey
   ```
