@@ -13,17 +13,29 @@ npm isntall
 npm install @modelcontextprotocol/sdk zod viem
 npm install dotenv
 ```
+# Run build
+```bash
+npm run build
+```
+go to dist folder
+```bash
+cd dist
+```
+
 - create an env file in your dist folder
   ```bash
   code .env # fill it with PRIVATE_KEY=0xYourPrivateKey
   ```
-
+- get the env directory
+  ```bash
+  pwd # add /env to the output to make your env path
+  ```
 - edit the monad-magma-Tools.ts in the src folder with the path to your env. this is so that claude can load it
 
 <img width="374" alt="env" src="https://github.com/user-attachments/assets/71bf86af-f7e0-449c-9620-b50e88ce3acc" />
 
  
-# Build and run
+# Build Again
 ```bash
 npm run build
 ```
