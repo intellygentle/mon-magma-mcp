@@ -51,6 +51,7 @@ which node  # it should look like this /home/yourUsername/.nvm/versions/node/v23
   ```
 
 # Test with MCP Inspector
+be sure to edit "username" use your directory
 ```bash
 npx @modelcontextprotocol/inspector /home/username/.nvm/versions/node/v23.11.0/bin/node /home/username/monadMpcTask/dist/monad-magma-Tools.js
 ```
