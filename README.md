@@ -36,7 +36,10 @@ cd dist
 
 <img width="374" alt="env" src="https://github.com/user-attachments/assets/71bf86af-f7e0-449c-9620-b50e88ce3acc" />
 
- 
+# go back to the root directory
+```bash
+cd ..
+```
 # Build Again
 ```bash
 npm run build
