@@ -59,3 +59,8 @@ npx @modelcontextprotocol/inspector /home/username/.nvm/versions/node/v23.11.0/b
 # MCP Inspector will look like this
 <img width="953" alt="image" src="https://github.com/user-attachments/assets/7ee3f894-1a30-45c7-a5c3-17bfc9a49d57" />
 
+# Claude will look like this
+<img width="628" alt="Screenshot 2025-04-19 070802" src="https://github.com/user-attachments/assets/44ab9d8b-ae03-4c0d-9e7e-6a0bd386003b" />
+<img width="820" alt="stakemcp" src="https://github.com/user-attachments/assets/7cb080e7-f8c1-4103-8fdc-ece53763a8a5" />
+
+
