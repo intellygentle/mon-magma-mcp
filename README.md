@@ -14,9 +14,8 @@ npm install @modelcontextprotocol/sdk zod viem
 npm install dotenv
 ```
 # Run configure dotenv
-
-```
 go to dist folder
+
 ```bash
 cd dist
 ```
