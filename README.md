@@ -9,6 +9,7 @@ cd mon-magma-mcp
 
 # Install dependencies
 ```bash 
+npm i --save-dev @types/node
 npm isntall
 npm install @modelcontextprotocol/sdk zod viem
 npm install dotenv
