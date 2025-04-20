@@ -72,7 +72,7 @@ which node  # it should look like this /home/yourUsername/.nvm/versions/node/v23
 # Install MCP inspector
 
 ```bash
-@modelcontextprotocol/inspector@0.10.2
+npm install @modelcontextprotocol/inspector@0.10.2
 ```
 
 # Test with MCP Inspector
